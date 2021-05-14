@@ -1,2 +1,2 @@
-username: user
+username: user;
 password: 123456
